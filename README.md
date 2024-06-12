@@ -24,7 +24,7 @@
 
 ## ✨ 特性
 
-- 🪐 10+ 常用组件
+- 🪐 15+ 常用组件
 - 🏆 支持完整引入和按需引入
 - 🤟 配置简单，上手容易
 - ❤️ 根据实际需求开发
@@ -106,7 +106,7 @@ createApp(App).use(dkPlus).mount('#app')
 
 ## 🌈 加入 DK-plus
 
-添加微信请备注 `Github` 用户名
+添加微信请备注 `Github` 用户名(最近太忙暂停更新)
 
 <img height="200px"  src="https://oss.cadwaladerss.com/dk-plus/images/wxcrcoder.jpg">
 
